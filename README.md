@@ -2,7 +2,7 @@
 
 # 🐢 Martian Lee
 
-<a href="https://readme-typing-svg.demolab.com">
+<a href="https://martianlee.github.io">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Crazy+Side+Project+Generator;I+build+a+lot+%E2%80%94+and+I+ship+a+lot;Games%2C+apps%2C+and+everything+in+between" alt="typing tagline" />
 </a>
 
@@ -73,7 +73,7 @@ I read codebases and write architecture deep-dives at **[martianlee.github.io](h
 <img src="https://github-readme-stats.vercel.app/api?username=MartianLee&show_icons=true&theme=catppuccin_latte" alt="GitHub stats" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartianLee&layout=compact&theme=catppuccin_latte" alt="Top languages" height="165" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MartianLee&theme=catppuccin_latte" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com/?user=MartianLee&theme=catppuccin_latte" alt="GitHub streak" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=MartianLee&theme=flat&no-frame=true&column=7&margin-w=8" alt="Trophies" />
 
